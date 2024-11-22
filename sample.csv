@@ -1,0 +1,16 @@
+age,workclass,fnlwgt,education,education-num,marital-status,occupation,relationship,race
+43, Private,252519, Bachelors,13, Married-civ-spouse, Handlers-cleaners, Husband, Black
+39, Private,43712, HS-grad,9, Married-civ-spouse, Exec-managerial, Husband, White
+69, ?,167826, Bachelors,13, Married-civ-spouse, ?, Husband, White
+34, Private,188900, Bachelors,13, Married-civ-spouse, Exec-managerial, Wife, White
+44, Private,120057, Assoc-acdm,12, Married-civ-spouse, Exec-managerial, Husband, White
+25, Private,134113, Bachelors,13, Never-married, Adm-clerical, Not-in-family, White
+47, Local-gov,165822, Some-college,10, Divorced, Transport-moving, Unmarried, White
+17, Private,99161, 10th,6, Never-married, Other-service, Own-child, White
+41, Local-gov,74581, Bachelors,13, Divorced, Prof-specialty, Unmarried, White
+19, Private,304643, Some-college,10, Never-married, Sales, Own-child, White
+57, Private,121821, 1st-4th,2, Married-civ-spouse, Other-service, Husband, Other
+25, Private,154863, HS-grad,9, Never-married, Adm-clerical, Unmarried, Black
+37, Local-gov,365430, Some-college,10, Married-civ-spouse, Adm-clerical, Husband, White
+29, Private,183111, Assoc-voc,11, Married-civ-spouse, Machine-op-inspct, Husband, White
+32, Private,50178, Some-college,10, Never-married, Sales, Own-child, White
